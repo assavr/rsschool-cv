@@ -1,6 +1,19 @@
 # Anastasia Savrukhina
+ ```
+ ```
+## **Contacts**
 
-## Contacts
-### :paperclip: **Phone number:** +7 (953) 291-57-26    
-### :paperclip: **Email address:** assavr0@gmail.com    
-### :paperclip: [telegram](https://t.me/assavr0)
+### **Phone number:** +7 (953) 291-57-26 
+### **Email address:** assavr0@gmail.com    
+###  **Telegram:** [Anastasia](https://t.me/assavr0)
+### **Github:** [Anastasia Savrukhina](https://github.com/assavr)
+```
+```
+---
+```
+```
+## **About me**
+добавлю текст
+```
+```
+---
