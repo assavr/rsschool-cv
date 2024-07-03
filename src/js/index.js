@@ -37,7 +37,7 @@ document.body.insertBefore(renderer.domElement, document.body.firstChild);
 const loader = new GLTFLoader();
 let model3D = null;
 
-loader.load("./src/3d-model/scene.gltf", function (gltf) {
+loader.load("src/three-model/scene.gltf", function (gltf) {
   model3D = gltf;
   model3D.scene.scale.set(1.3, 1.3, 1.3);
   model3D.scene.rotation.x = 0.75;
